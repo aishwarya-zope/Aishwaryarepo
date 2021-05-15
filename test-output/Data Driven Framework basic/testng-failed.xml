@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Data Driven Framework basic]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.w2a.TestCases.ValidationOnCard">
+        <methods>
+          <include name="InvalidData_CardNumber_More_than_19_digits" invocation-numbers="0"/>
+          <include name="validData" invocation-numbers="0"/>
+          <include name="InvalidData_CardNumber_More_than_13_digits" invocation-numbers="0"/>
+          <include name="browserLaunch"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.w2a.TestCases.ValidationOnCard -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Data Driven Framework basic] -->

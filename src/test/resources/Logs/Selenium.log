@@ -1,0 +1,113 @@
+20:08:05,273 DEBUG devpinoyLogger:32 - Loading config property file
+20:08:05,273 DEBUG devpinoyLogger:35 - Loding Locator property file
+20:08:05,814 DEBUG devpinoyLogger:91 - Sheet is present=true
+20:08:05,814 DEBUG devpinoyLogger:93 - Rowcount =6
+20:08:07,234  INFO devpinoyLogger:46 - Received Browser = Chrome from config property file
+20:08:07,234 DEBUG devpinoyLogger:47 - Launching Chrome driver
+20:08:08,385  INFO devpinoyLogger:60 - Received SiteURL= https://impactguru:8nvbil51pp@staging.igstg.com/fundraiser/help-testdocumentchecklist
+20:08:08,387 DEBUG devpinoyLogger:61 - Navigating to https://impactguru:8nvbil51pp@staging.igstg.com/fundraiser/help-testdocumentchecklist
+20:08:08,530 DEBUG devpinoyLogger:63 - Maximizing the screen
+20:08:08,545  INFO devpinoyLogger:66 - Adding Implicit timeout as 10sec
+20:08:09,307 DEBUG devpinoyLogger:74 - Finding element auth-local-btn
+20:08:09,926 DEBUG devpinoyLogger:74 - Finding element username
+20:08:10,547 DEBUG devpinoyLogger:74 - Finding element password
+20:08:11,166 DEBUG devpinoyLogger:74 - Finding element submit
+20:08:11,750  INFO devpinoyLogger:41 - Logged in successfully
+20:08:14,328 DEBUG devpinoyLogger:94 - Finding element //*[@id='cmp-nfr-top-side-donate']
+20:08:15,213  INFO devpinoyLogger:43 - Click on Donate button
+20:08:15,233 DEBUG devpinoyLogger:94 - Finding element //option[@value=1][@title='INR']
+20:08:15,772 DEBUG devpinoyLogger:42 - Checking for selected currency as Rupee
+20:08:15,790 DEBUG devpinoyLogger:74 - Finding element story-popup-donate-amt-option1
+20:08:16,429  INFO devpinoyLogger:49 - Clicking on 1000 Amount
+20:08:16,459 DEBUG devpinoyLogger:74 - Finding element full_name
+20:08:17,091 DEBUG devpinoyLogger:74 - Finding element email_receipt
+20:08:17,690 DEBUG devpinoyLogger:74 - Finding element mobile
+20:08:18,293 DEBUG devpinoyLogger:74 - Finding element city_text
+20:08:18,912 DEBUG devpinoyLogger:74 - Finding element story-popup-donate-button
+20:08:19,573 DEBUG devpinoyLogger:74 - Finding element cardNumber
+20:08:24,115 DEBUG devpinoyLogger:74 - Finding element expiryDate
+20:08:24,812 DEBUG devpinoyLogger:94 - Finding element //small[@data-bv-result="INVALID"]
+20:08:26,127 DEBUG devpinoyLogger:74 - Closing broswer
+20:08:26,177 DEBUG devpinoyLogger:91 - Sheet is present=true
+20:08:26,178 DEBUG devpinoyLogger:93 - Rowcount =6
+20:08:27,260  INFO devpinoyLogger:46 - Received Browser = Chrome from config property file
+20:08:27,260 DEBUG devpinoyLogger:47 - Launching Chrome driver
+20:08:31,686  INFO devpinoyLogger:60 - Received SiteURL= https://impactguru:8nvbil51pp@staging.igstg.com/fundraiser/help-testdocumentchecklist
+20:08:31,686 DEBUG devpinoyLogger:61 - Navigating to https://impactguru:8nvbil51pp@staging.igstg.com/fundraiser/help-testdocumentchecklist
+20:08:31,821 DEBUG devpinoyLogger:63 - Maximizing the screen
+20:08:31,824  INFO devpinoyLogger:66 - Adding Implicit timeout as 10sec
+20:08:32,696 DEBUG devpinoyLogger:74 - Finding element auth-local-btn
+20:08:33,340 DEBUG devpinoyLogger:74 - Finding element username
+20:08:33,979 DEBUG devpinoyLogger:74 - Finding element password
+20:08:34,611 DEBUG devpinoyLogger:74 - Finding element submit
+20:08:35,210  INFO devpinoyLogger:24 - Logged in successfully
+20:08:49,344 DEBUG devpinoyLogger:94 - Finding element //*[@id='cmp-nfr-top-side-donate']
+20:08:50,294  INFO devpinoyLogger:26 - Click on Donate button
+20:08:50,318 DEBUG devpinoyLogger:94 - Finding element //option[@value=1][@title='INR']
+20:08:50,848 DEBUG devpinoyLogger:42 - Checking for selected currency as Rupee
+20:08:50,867 DEBUG devpinoyLogger:74 - Finding element story-popup-donate-amt-option1
+20:08:51,521  INFO devpinoyLogger:49 - Clicking on 1000 Amount
+20:08:51,542 DEBUG devpinoyLogger:74 - Finding element full_name
+20:08:52,189 DEBUG devpinoyLogger:74 - Finding element email_receipt
+20:08:52,802 DEBUG devpinoyLogger:74 - Finding element mobile
+20:08:53,428 DEBUG devpinoyLogger:74 - Finding element city_text
+20:08:54,061 DEBUG devpinoyLogger:74 - Finding element story-popup-donate-button
+20:08:54,726 DEBUG devpinoyLogger:74 - Finding element cardNumber
+20:09:06,153 DEBUG devpinoyLogger:74 - Closing broswer
+20:09:06,209 DEBUG devpinoyLogger:91 - Sheet is present=true
+20:09:06,209 DEBUG devpinoyLogger:93 - Rowcount =6
+20:09:07,324  INFO devpinoyLogger:46 - Received Browser = Chrome from config property file
+20:09:07,324 DEBUG devpinoyLogger:47 - Launching Chrome driver
+20:09:09,132  INFO devpinoyLogger:60 - Received SiteURL= https://impactguru:8nvbil51pp@staging.igstg.com/fundraiser/help-testdocumentchecklist
+20:09:09,132 DEBUG devpinoyLogger:61 - Navigating to https://impactguru:8nvbil51pp@staging.igstg.com/fundraiser/help-testdocumentchecklist
+20:09:09,267 DEBUG devpinoyLogger:63 - Maximizing the screen
+20:09:09,283  INFO devpinoyLogger:66 - Adding Implicit timeout as 10sec
+20:09:10,611 DEBUG devpinoyLogger:74 - Finding element auth-local-btn
+20:09:11,235 DEBUG devpinoyLogger:74 - Finding element username
+20:09:11,833 DEBUG devpinoyLogger:74 - Finding element password
+20:09:12,432 DEBUG devpinoyLogger:74 - Finding element submit
+20:09:13,033  INFO devpinoyLogger:58 - Logged in successfully
+20:09:18,919 DEBUG devpinoyLogger:94 - Finding element //*[@id='cmp-nfr-top-side-donate']
+20:09:19,898  INFO devpinoyLogger:60 - Click on Donate button
+20:09:19,920 DEBUG devpinoyLogger:94 - Finding element //option[@value=1][@title='INR']
+20:09:20,459 DEBUG devpinoyLogger:42 - Checking for selected currency as Rupee
+20:09:20,480 DEBUG devpinoyLogger:74 - Finding element story-popup-donate-amt-option1
+20:09:21,178  INFO devpinoyLogger:49 - Clicking on 1000 Amount
+20:09:21,207 DEBUG devpinoyLogger:74 - Finding element full_name
+20:09:21,869 DEBUG devpinoyLogger:74 - Finding element email_receipt
+20:09:22,506 DEBUG devpinoyLogger:74 - Finding element mobile
+20:09:23,160 DEBUG devpinoyLogger:74 - Finding element city_text
+20:09:23,794 DEBUG devpinoyLogger:74 - Finding element story-popup-donate-button
+20:09:24,474 DEBUG devpinoyLogger:74 - Finding element cardNumber
+20:09:26,390 DEBUG devpinoyLogger:94 - Finding element //*[@id='cardNumber']/following-sibling::i
+20:09:27,103 DEBUG devpinoyLogger:94 - Finding element //small[@data-bv-result="INVALID"]
+20:09:28,461 DEBUG devpinoyLogger:74 - Closing broswer
+20:09:28,504 DEBUG devpinoyLogger:91 - Sheet is present=true
+20:09:28,504 DEBUG devpinoyLogger:93 - Rowcount =6
+20:09:29,688  INFO devpinoyLogger:46 - Received Browser = Chrome from config property file
+20:09:29,688 DEBUG devpinoyLogger:47 - Launching Chrome driver
+20:09:40,329  INFO devpinoyLogger:60 - Received SiteURL= https://impactguru:8nvbil51pp@staging.igstg.com/fundraiser/help-testdocumentchecklist
+20:09:40,330 DEBUG devpinoyLogger:61 - Navigating to https://impactguru:8nvbil51pp@staging.igstg.com/fundraiser/help-testdocumentchecklist
+20:09:40,466 DEBUG devpinoyLogger:63 - Maximizing the screen
+20:09:40,496  INFO devpinoyLogger:66 - Adding Implicit timeout as 10sec
+20:09:41,514 DEBUG devpinoyLogger:74 - Finding element auth-local-btn
+20:09:42,215 DEBUG devpinoyLogger:74 - Finding element username
+20:09:42,913 DEBUG devpinoyLogger:74 - Finding element password
+20:09:43,543 DEBUG devpinoyLogger:74 - Finding element submit
+20:09:44,126  INFO devpinoyLogger:75 - Logged in successfully
+20:09:48,911 DEBUG devpinoyLogger:94 - Finding element //*[@id='cmp-nfr-top-side-donate']
+20:09:49,811  INFO devpinoyLogger:77 - Click on Donate button
+20:09:49,829 DEBUG devpinoyLogger:94 - Finding element //option[@value=1][@title='INR']
+20:09:50,361 DEBUG devpinoyLogger:42 - Checking for selected currency as Rupee
+20:09:50,387 DEBUG devpinoyLogger:74 - Finding element story-popup-donate-amt-option1
+20:09:51,054  INFO devpinoyLogger:49 - Clicking on 1000 Amount
+20:09:51,074 DEBUG devpinoyLogger:74 - Finding element full_name
+20:09:51,702 DEBUG devpinoyLogger:74 - Finding element email_receipt
+20:09:52,322 DEBUG devpinoyLogger:74 - Finding element mobile
+20:09:52,931 DEBUG devpinoyLogger:74 - Finding element city_text
+20:09:53,553 DEBUG devpinoyLogger:74 - Finding element story-popup-donate-button
+20:09:54,184 DEBUG devpinoyLogger:74 - Finding element cardNumber
+20:09:54,956 DEBUG devpinoyLogger:94 - Finding element //input[@name = 'expiryDate']
+20:09:55,655 DEBUG devpinoyLogger:94 - Finding element //input[@id='cvvNumber']
+20:09:56,286 DEBUG devpinoyLogger:74 - Finding element donate-card-contribute
+20:09:57,670 DEBUG devpinoyLogger:74 - Closing broswer
